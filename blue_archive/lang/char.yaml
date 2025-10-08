@@ -31,7 +31,7 @@
   name:
     en: Kurihama Akemi
     ja: 栗浜 アケミ
-    ko: ''
+    ko: 쿠리하마 아케미
     zh-cn: ''
     zh-tw: ''
   short_name: null
@@ -193,7 +193,7 @@
   name:
     en: BlackMarket Member
     ja: 組織員
-    ko: ''
+    ko: 조직원
     zh-cn: 组织成员
     zh-tw: 組織成員
   short_name: null
@@ -290,7 +290,7 @@
   name:
     en: Steel Drum
     ja: ドラム缶
-    ko: ''
+    ko: 드럼통
     zh-cn: 油桶
     zh-tw: 油桶
   short_name:
@@ -452,7 +452,7 @@
     ko: 하츠네 미쿠
 - id: Helmet_Dan
   name:
-    en: Helmet Dan
+    en: Helmet Gangster
     ja: ヘルメット団
     ko: 헬멧단
     zh-cn: 头盔团
@@ -484,7 +484,7 @@
   name:
     en: Tachibana Hikari
     ja: 橘 ヒカリ
-    ko: ''
+    ko: 타치바나 히카리
     zh-cn: ''
     zh-tw: ''
   short_name: null
@@ -534,7 +534,7 @@
   name:
     en: Hyakkiyako Club Member
     ja: 百鬼夜行サークル部員
-    ko: ''
+    ko: 백귀야행 동아리 부원
     zh-cn: 百鬼夜行社团部员
     zh-tw: 百鬼夜行社團部員
   short_name: null
@@ -591,7 +591,7 @@
   name:
     en: Peking Opera Student
     ja: 京劇部員
-    ko: ''
+    ko: 경극부원
     zh-cn: 京剧部成员
     zh-tw: 京劇部成員
   short_name:
@@ -630,7 +630,7 @@
   name:
     en: Urushibara Kaguya
     ja: 漆原 カグヤ
-    ko: ''
+    ko: 우루시바라 카구야
     zh-cn: ''
     zh-tw: ''
 - id: Kaho
@@ -729,9 +729,9 @@
   short_name: null
 - id: Kirara
   name:
-    en: Kirara
-    ja: キララ
-    ko: 키라라
+    en: Yozakura Kirara
+    ja: 夜桜 キララ
+    ko: 요자쿠라 키라라
     zh-cn: ''
     zh-tw: ''
 - id: Kirino
@@ -816,14 +816,14 @@
   name:
     en: Maestro
     ja: マエストロ
-    ko: ''
+    ko: 마에스트로
     zh-cn: Maestro
     zh-tw: Maestro
 - id: mafia
   name:
     en: Mafia
     ja: マフィア
-    ko: ''
+    ko: 마피아
     zh-cn: ''
     zh-tw: ''
   short_name: null
@@ -864,9 +864,9 @@
     zh-tw: 池倉 瑪麗娜
 - id: marukuto
   name:
-    en: Marukuto
+    en: Malkuth
     ja: マルクト
-    ko: ''
+    ko: 말쿠트
     zh-cn: ''
     zh-tw: ''
   short_name: null
@@ -954,7 +954,7 @@
   name:
     en: Mirai
     ja: ミライ
-    ko: ''
+    ko: 미라이
     zh-cn: ''
     zh-tw: ''
   short_name: null
@@ -1022,7 +1022,7 @@
   name:
     en: Mubou Katashiro
     ja: 無貌の形代
-    ko: ''
+    ko: 얼굴 없는 카타시로
     zh-cn: 无貌的人偶
     zh-tw: 無貌的人偶
   short_name: null
@@ -1044,7 +1044,7 @@
   name:
     en: Goryou Nagusa
     ja: 御稜 ナグサ
-    ko: 나구사
+    ko: 고료 나구사
     zh-cn: ''
     zh-tw: ''
 - id: nameless_guardian
@@ -1109,7 +1109,7 @@
   name:
     en: Tachibana Nozomi
     ja: 橘 ノゾミ
-    ko: ''
+    ko: 타치바나 노조미
     zh-cn: ''
     zh-tw: ''
   short_name: null
@@ -1117,7 +1117,7 @@
   name:
     en: Child
     ja: 子供
-    ko: ''
+    ko: 어린이
     zh-cn: 小孩子
     zh-tw: 小孩子
 - id: npc_fisherman
@@ -1231,14 +1231,14 @@
   name:
     en: Smiling Professor
     ja: ニヤニヤ教授
-    ko: ''
+    ko: 히죽히죽 교수
     zh-cn: 笑面教授
     zh-tw: 笑面教授
   short_name:
     en: Smiling Professor
 - id: Purana
   name:
-    en: Purana
+    en: Prana
     ja: プラナ
     ko: 프라나
     zh-cn: 普拉娜
@@ -1361,9 +1361,9 @@
     ko: 사텐 루이코
 - id: Satsuki
   name:
-    en: Satsuki
-    ja: サツキ
-    ko: 사츠키
+    en: Kyougoku Satsuki
+    ja: 京極 サツキ
+    ko: 쿄고쿠 사츠키
     zh-cn: ''
     zh-tw: ''
 - id: Saya
@@ -1505,7 +1505,7 @@
   name:
     en: ????
     ja: ？？？？
-    ko: ''
+    ko: ????
     zh-cn: ？？？？
     zh-tw: ？？？？
   short_name:
@@ -1523,7 +1523,7 @@
   name:
     en: GSC Student
     ja: 連邦生徒会役員
-    ko: 총학생회 학생
+    ko: 총학생회 임원
     zh-cn: 联邦学生会成员
     zh-tw: 聯邦學生會成員
   short_name:
@@ -1563,7 +1563,7 @@
   name:
     en: Asagiri Suou
     ja: 朝霧 スオウ
-    ko: ''
+    ko: 아사기리 스오우
     zh-cn: ''
     zh-tw: ''
   short_name: null
@@ -1663,7 +1663,7 @@
   name:
     en: Shiina Tsumugi
     ja: 椎名 ツムギ
-    ko: ''
+    ko: 시이나 츠무기
     zh-cn: ''
     zh-tw: ''
   short_name: null
@@ -1730,9 +1730,9 @@
     en: Yoheki
 - id: Yonoka
   name:
-    en: Yonoka
+    en: Konoka
     ja: コノカ
-    ko: ''
+    ko: 코노카
     zh-cn: ''
     zh-tw: ''
 - id: Yoshimi
